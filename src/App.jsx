@@ -53,7 +53,7 @@ const App = () => {
   const prefilledMessage = "Hello, I would like to know more about the training.";
   return (
     
-    <BrowserRouter basename="/bucregaltech">
+    <BrowserRouter basename="/">
       <ScrollToTop />
       <Routes>
         {/* Route for the main landing page */}
